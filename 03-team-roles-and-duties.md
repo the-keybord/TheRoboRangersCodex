@@ -115,3 +115,20 @@ Every member in **TerraByte** and **Junior FTC** must declare a **Primary Track*
 2. **Lab Safety & Operations Track** → Subordinate to Sergeant-at-Arms
 3. **Innovation & Mechanical Design Track** → Subordinate to Project Main
 4. **Programming & Autonomous Track** → Subordinate to Programming Main
+
+---
+
+## 🛡️ Non-Exploitation & Educational Benefit Rule (Child Labor Protection)
+
+All roles, subordinate duties, and responsibilities outlined in this document must strictly adhere to the following non-negotiable principles:
+
+1. **Strictly Educational & Mutual Benefit**:
+   * All tasks and duties assigned to students must be actively analyzed and monitored to ensure they **never constitute the exploitation of child labor**.
+   * The sole and absolute justification for all assigned roles is the **personal educational growth, technical skill acquisition, and empowerment of the individual student**, alongside the healthy development of the team as a youth organization.
+   * Under no circumstances may students be treated as unpaid operational labor or used to replace commercial staff.
+
+2. **Repayment of Work and Volunteering Hours**:
+   * All hours of service, peer mentoring, lab upkeep, and subordinate work must be formally repaid to the student through:
+     * **Team Status & Recognition**: Rank elevation within the RoboRangers hierarchy and trust credits.
+     * **Future Progression**: Priority advancement for higher squad placement (TerraByte, Junior FTC, and Level 4 Varsity).
+     * **Official Volunteering Certificates**: Verified service hour certificates (applicable for school graduation requirements, college admissions, and scholarship portfolios).
