@@ -77,6 +77,22 @@ To foster student ownership and prevent mentor administrative burnout:
 
 ---
 
+## 🤝 Youth Volunteering & Junior Mentorship Program (Ages 14+)
+
+Starting at **age 14**, any active RoboRanger may officially contribute their effort to the broader organization's growth through structured non-technical, leadership, and volunteer activities:
+
+1. **Approved Volunteering Pathways**:
+   * **Junior Mentoring**: Assisting adult coaches during *RoboMaker* and *Challenge Bot* sessions—helping 9–11-year-olds troubleshoot mechanisms and model FIRST Core Values.
+   * **Community & Public Presentations**: Demonstrating robots at partner schools, open house exhibitions, sponsor meetings, and community festivals.
+   * **Creative Video & Media Production**: Directing, filming, and editing robot reveal videos, match highlight reels, tutorials, and social media reels.
+   * **Organizing Fun & Team Culture Events**: Planning team social nights, scrimmage game boards, robot sumo tournaments, and celebration banquets (critical for morale and preventing technical burnout).
+
+2. **Repayment & Protection Standards**:
+   * All volunteering is strictly voluntary, aligned with the member's personal interests, and balanced with their academic schedule.
+   * Every hour is recorded in their Ranger Passport and formally repaid with **Official Volunteering Certificates** and **Trust Credits** toward Level 4 Varsity promotion.
+
+---
+
 ## ⏱️ Attendance Standards
 
 Consistency is the foundation of competitive robotics. Because sub-teams depend on synchronized collaboration, attendance expectations are strictly maintained:

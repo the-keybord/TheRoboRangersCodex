@@ -1,6 +1,6 @@
 # The RoboRangers Team Codex & Constitution
-**Official Governance, Operating Procedures, and Rulebook**  
-*Celebrating over a decade of robotics excellence across FIRST LEGO League (FLL), FIRST Tech Challenge (FTC), and open robotics divisions.*
+**Version 0.1 (Working Draft & Foundation)**  
+*Official Governance, Operating Procedures, and Academy Architecture — Celebrating over a decade of robotics excellence across FLL, FTC, and open robotics divisions.*
 
 ---
 
