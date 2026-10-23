@@ -59,3 +59,22 @@ Every RoboRanger—students, mentors, and parent volunteers—agrees to the foll
 ### 4. Digital & Public Representation
 - When wearing the RoboRangers uniform (shirts, badges) or posting on team communication platforms (Discord, Slack, GitHub, Instagram), members represent the entire 10-year brand.
 - Unsportsmanlike conduct on social media or in public Discord/Reddit robotics forums reflects poorly on the team and is subject to disciplinary action.
+
+---
+
+## 🛡️ Educational Integrity & Child Protection Standard (Anti-Exploitation Policy)
+
+The RoboRangers strictly prohibit any form of youth labor exploitation. Because our organization operates both educational courses and competitive squads, all student roles, tasks, and volunteer opportunities must adhere to the following non-negotiable standards:
+
+1. **Strictly Educational & Developmental Purpose**:
+   * Every duty assigned to a student—whether building mechanisms, writing code, organizing tools, or assisting junior courses—must serve the **direct educational benefit, skill acquisition, and personal empowerment of the individual student**, as well as the collective health of the team as a youth organization.
+   * Tasks must never be assigned merely to replace professional staff or perform menial commercial maintenance. Students are learners and leaders, not unpaid labor.
+
+2. **Equitable Return & Formal Repayment of Effort**:
+   * All effort, workshop assistance, peer mentoring, and volunteering hours contributed by students must be formally recognized and repaid through:
+     * **Team Status & Rank Advancement**: Tangible progression in the RoboRangers hierarchy and priority for leadership positions.
+     * **Future Progression**: Fast-tracked consideration for higher competitive squads (TerraByte, Junior FTC, and Level 4 Varsity).
+     * **Official Volunteering Certificates**: Verified documentation of community service, mentorship, and STEM outreach hours (applicable for high school graduation requirements, college admissions, and scholarship portfolios).
+
+3. **Continuous Mentor Auditing**:
+   * The Team Governing Board and adult mentors are required to regularly audit all student assignments to ensure work loads remain age-appropriate, balanced with schoolwork, and aligned with educational STEM enrichment.

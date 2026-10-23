@@ -72,7 +72,8 @@ If a non-academy student applies directly for Level 4 (Varsity):
 To foster student ownership and prevent mentor administrative burnout:
 1. **Student Responsibility**: Every member maintains a physical or digital **Ranger Passport** logging workshop hours, project reflections, safety certifications, and skill badges.
 2. **Sub-Team Sign-Offs**: Mains sign off on their subordinate members' task completions; Mentors verify milestones at seasonal promotion hearings.
-3. **Leadership Points**: Members who serve as a **Team Captain**, **PR Main**, **Sergeant-at-Arms**, **Project Main**, or **Programming Main** earn accelerated Leadership Points required for promotion to Level 4.
+3. **Leadership Points & Recognition**: Members who serve as a **Team Captain**, **PR Main**, **Sergeant-at-Arms**, **Project Main**, or **Programming Main** earn accelerated Leadership Points required for promotion to Level 4.
+4. **Volunteering Certificates & Hour Verification**: All verified hours spent mentoring younger courses, assisting in the workshop, or leading satellite school teams are certified with **Official RoboRangers Volunteering Certificates**, usable for school community service requirements, college applications, and international STEM resumes.
 
 ---
 
