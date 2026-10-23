@@ -48,20 +48,34 @@ Across all competitive squads in the RoboRangers organization—**TerraByte (FLL
 
 ---
 
-### 2. PR Main (Public Relations & Portfolio Lead)
-* **Scope**: Team branding, engineering notebook/portfolio curation, judging presentation, and public media.
+### 2. PR & Digital Media Main (Public Relations, Webmaster & Content Lead)
+* **Scope**: Team branding, public media presence, official website, social networks, engineering portfolio curation, and competition judging.
 * **Core Responsibilities**:
-  * Curates the official Engineering Portfolio / Innovation Display for competition judges.
-  * Directs the judging presentation script, rehearsal timers, and flashcard drills.
-  * Manages team social media, photography, match videos, and pit booth decoration.
+  * **Social Media & Viral Content**: Keeps the team's Instagram, Facebook, and TikTok channels active with weekly high-engagement reels, match clips, technical build showcases, and trending robotics videos.
+  * **Website Management & Blogging**: Serves as Chief Webmaster—regularly blogging about team achievements, match recaps, student spotlights, and sponsor acknowledgments to maintain global prestige.
+  * **Portfolio & Judging Materials**: Curates the official 15-page FTC Engineering Portfolio (or FLL Innovation Project display) and coaches the team on speech timing, skits, and judge Q&A drills.
 * **Subordinates Under PR Main**:
-  * *Portfolio / Notebook Writers*: Documenting daily engineering decisions, iterations, and calculations.
-  * *Media & Pit Crew*: Taking photos/video footage and building the visual pit display.
-  * *Presentation Speakers*: Practicing speaking roles and Q&A responses for the judging room.
+  * *Social Media & Reels Creator*: Shoots vertical video, edits trending clips, and schedules daily/weekly posts.
+  * *Webmaster & Team Blogger*: Writes articles, archives match statistics, and maintains the team website.
+  * *Portfolio Writers*: Transcribe engineering logs, design iterations, and CAD renders into the official portfolio.
+  * *Presentation Speakers*: Rehearse judging pitches, posture, and public speaking.
 
 ---
 
-### 3. Sergeant-at-Arms (Discipline, Safety, 3D Printers & Lab Marshal)
+### 3. Culture & Member Care Lead ("The Vibe & Community Officer")
+*(Working in direct collaboration with Culture & Identity Mentor Andrian Bocancea to combat team delamination)*
+* **Scope**: Team morale, newcomer onboarding, mental well-being, conflict de-escalation, and community fun.
+* **Core Responsibilities**:
+  * **Onboarding & Rookie Welcoming**: Ensures new students from *RoboMaker* or *Robot Factory* never feel isolated or ignored; pairs every recruit with an active member buddy.
+  * **Community & Fun Events**: Organizes regular non-technical activities—team game nights, pizza parties, movie screenings, and internal robot-sumo scrimmages to ensure the team stays a tight-knit family.
+  * **Morale Checkpoints & Anti-Delamination**: Proactively senses social friction, listens to student concerns, and brings team issues to the mentors before resentment builds.
+* **Subordinates Under Member Care**:
+  * *Event Organizers*: Plan logistics, games, and snacks for team social gatherings.
+  * *Heritage & Traditions Keeper*: Maintains the trophy showcase, team photo archives, and assists with Passport badge ceremonies.
+
+---
+
+### 4. Sergeant-at-Arms (Discipline, Safety, 3D Printers & Lab Marshal)
 * **Scope**: Workshop order, meeting focus, 3D printers and filament inventory, tool organization, safety compliance, and lab hygiene.
 * **Core Responsibilities**:
   * **3D Printers & Filament Stewardship (Primary Custodian)**: Directly responsible for the team's 3D printers and filament stock. Manages machine readiness, print queues, bed leveling, nozzle maintenance, and proper filament storage (keeping spools sealed, dry, categorized by material/color, and preventing waste).
@@ -76,7 +90,7 @@ Across all competitive squads in the RoboRangers organization—**TerraByte (FLL
 
 ---
 
-### 4. Project Main (Sprint & Innovation Project Lead)
+### 5. Project Main (Sprint & Innovation Project Lead)
 * **Scope**: Task timelines, milestone delivery, and research project coordination.
 * **Core Responsibilities**:
   * **In FLL (TerraByte)**: Leads the real-world Innovation Project research, expert stakeholder interviews, and solution design.
@@ -88,7 +102,7 @@ Across all competitive squads in the RoboRangers organization—**TerraByte (FLL
 
 ---
 
-### 5. Programming Main (Software & Controls Lead)
+### 6. Programming Main (Software & Controls Lead)
 * **Scope**: Autonomous routines, tele-op driver controls, sensor telemetry, and codebase integrity.
 * **Core Responsibilities**:
   * Architect of the squad's software (Block code / Python in FLL; Java / FTC SDK in FTC).

@@ -1,14 +1,14 @@
 # The RoboRangers Team Codex & Constitution
 **Version 0.1 (Working Draft & Foundation)**  
-*Official Governance, Operating Procedures, and Academy Architecture — Celebrating over a decade of robotics excellence across FLL, FTC, and open robotics divisions.*
+*Official Governance, Operating Procedures, and Academy Architecture — Founded in 2015 in the Republic of Moldova, representing national robotics excellence across FLL, FTC, FIRST Global Challenge (FGC), and international arenas.*
 
 ---
 
-## 📜 Preamble
+## 📜 Preamble & Heritage
 
-For over ten years, the **RoboRangers** have built not only competitive robots, but leaders, engineers, problem solvers, and innovators. As our team grows and tackles increasingly complex challenges across FLL, FTC, and beyond, this Constitution establishes a formal system of democratic governance, shared responsibility, technical discipline, and cultural continuity.
+Founded in 2015 under the visionary leadership of Head Coach **Florin Cazac**, the **RoboRangers** have stood as Moldova’s flagship robotics organization for over a decade. From pioneering achievements in FIRST LEGO League (FLL) with **TerraByte** to powerhouse performances in the FIRST Tech Challenge (FTC) and representing Moldova at the prestigious FIRST Global Challenge (FGC), the team has shaped generations of young innovators.
 
-This document serves as the supreme operational standard of the RoboRangers. It guarantees that our team is student-driven, mentor-guided, democratically governed, and grounded in mutual respect and engineering rigor.
+Guided by Head Coach Florin Cazac's technical standard and Culture/Identity Mentor **Andrian Bocancea**, this Codex formalizes our evolution from a competitive club into a permanent, elite academy. It serves as our institutional anchor against team delamination, ensuring that every generation of students inherits clear pathways to excellence, deep team loyalty, and a culture of mutual respect and lifelong belonging.
 
 ---
 

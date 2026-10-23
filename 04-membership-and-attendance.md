@@ -93,6 +93,25 @@ Starting at **age 14**, any active RoboRanger may officially contribute their ef
 
 ---
 
+## 🎖️ The Multi-Faceted Return: Repaying Member Loyalty Beyond Competition Travel
+
+While representing Moldova at international championships (such as FTC Internationals, FIRST Global Challenge, or European Opens) is a pinnacle experience, travel rosters are strictly capped by competition rules and budget constraints. 
+
+To prevent **team delamination** and ensure that every RoboRanger feels valued and rewarded year-round—regardless of whether they fly to an off-site event—the organization provides four non-travel pillars of return:
+
+1. **Official Verified Volunteering Certificates**:
+   * Every semester, members in good standing receive official certificates detailing logged hours in STEM mentorship, hardware maintenance, software development, and community outreach.
+   * These credentials carry official weight for high school graduation requirements, Erasmus programs, university admissions, and international scholarship applications.
+2. **Public Media Credit & Portfolio Features**:
+   * The PR team actively spotlights members on the official website blog, Instagram, and Facebook.
+   * Technical solutions, CAD mechanisms, and code commits are attributed to their student creators, giving members a verifiable public portfolio for future careers.
+3. **Internal Championship Glory ("The Ranger Cup")**:
+   * Off-season robot-sumo competitions, obstacle runs, and internal hackathons award official team medals, trophies, and peer accolades celebrated across the entire academy.
+4. **Lifelong Alumni Network & Professional Mentorship**:
+   * Dedicated members gain entry into the elite network of RoboRangers alumni dating back to 2015—connecting them with university students, tech industry professionals, and career guidance.
+
+---
+
 ## ⏱️ Attendance Standards
 
 Consistency is the foundation of competitive robotics. Because sub-teams depend on synchronized collaboration, attendance expectations are strictly maintained:

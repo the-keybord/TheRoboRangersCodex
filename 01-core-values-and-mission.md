@@ -14,13 +14,22 @@ To stand as a beacon of youth-led technical ingenuity and sportsmanship—demons
 
 ---
 
-## 🏆 The 10-Year Legacy
+## 🏆 The Moldovan Robotics Legacy (Since 2015)
 
-Having sustained active competition for over ten years, the RoboRangers embody institutional pride and continuous evolution:
+Founded in 2015 under the technical direction of Head Coach **Florin Cazac**, the **RoboRangers** have built an unmatched record of excellence as Moldova’s premier competitive robotics team. Alongside the foundational FLL achievements of **TerraByte**, top-tier FIRST Tech Challenge (FTC) honors, and representing the Republic of Moldova on the world stage at the **FIRST Global Challenge (FGC)**, our team has proven that Moldovan students can innovate at the highest global standards.
 
-1. **Passing the Torch**: Veterans guide rookies; alumni return to mentor; every season builds upon the technical innovations and notebooks of previous teams.
-2. **Humility in Victory, Grace in Defeat**: Scores on the field do not define our character. How we respond to failure, support our alliance partners, and share knowledge defines the RoboRangers.
-3. **No Member Left Behind**: Every registered member, regardless of starting technical skill, receives structured mentorship, access to tools, and meaningful roles within the team.
+Alumni like Culture & Identity Mentor **Andrian Bocancea**—who grew up through the team from student to mentor—demonstrate our core tenet: **"Once a Ranger, Always a Ranger."**
+
+---
+
+## 🛡️ Combating Team Delamination: The "Beyond-the-Trip" Philosophy
+
+As competitive youth grow into independent teenagers, successful teams often suffer from **delamination**—the splintering of team loyalty, isolation of members, and the destructive perception that **international travel trips are the only definition of success**.
+
+To ensure the team endures as one unified family, the RoboRangers operate under the **"Beyond-the-Trip" Standard**:
+1. **Year-Round Home Prestige**: Being a RoboRanger is a celebrated lifestyle and identity every single week in Moldova—not just a ticket for a travel roster.
+2. **Equitable Multi-Faceted Rewards**: Every active member earns tangible returns through the **Ranger Passport**: official state/national volunteering certificates, verified portfolio badges, media recognition on our website and social platforms, and local championship glory in the *Ranger Cup*.
+3. **Brotherhood Over Ego**: Individual technical brilliance is celebrated only when paired with team loyalty and the active mentoring of younger recruits. No single member is bigger than the organization.
 
 ---
 
