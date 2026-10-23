@@ -54,7 +54,7 @@ graph TD
 
 * **Team Captain (President)**: Meeting moderation, 4-stage meeting rhythm (Standup, Sprint, Testing, Pack-down), overall team coordination, and primary liaison to adult mentors.
 * **PR Main**: Manages public relations, engineering portfolio/notebook, judging presentations, pit displays, and photo/video media capture. Oversees subordinate PR crew.
-* **Sergeant-at-Arms**: Maintains workshop and pit discipline, meeting focus, safety compliance (PPE), and enforces the *"No cleanup, no robot testing"* rule. Oversees lab marshals and tool keepers.
+* **Sergeant-at-Arms**: Maintains workshop and pit discipline, meeting focus, safety compliance (PPE), stewardship of 3D printers and filament inventory, and enforces the *"No cleanup, no robot testing"* rule. Oversees 3D printer marshals and lab keepers.
 * **Project Main**: Tracks deadlines, deliverables, and sprint tasks. In FLL (TerraByte), leads the real-world Innovation Project. In FTC squads, coordinates engineering sprint milestones. Oversees subordinate project assistants.
 * **Programming Main**: Responsible for code quality, autonomous consistency, sensor integration, tele-op mapping, and version control (GitHub/backups). Oversees apprentice coders.
 

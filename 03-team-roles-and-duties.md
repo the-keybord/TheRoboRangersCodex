@@ -61,14 +61,16 @@ Across all competitive squads in the RoboRangers organization—**TerraByte (FLL
 
 ---
 
-### 3. Sergeant-at-Arms (Discipline, Safety & Lab Marshal)
-* **Scope**: Workshop order, meeting focus, tool inventory, safety protocol enforcement, and lab hygiene.
+### 3. Sergeant-at-Arms (Discipline, Safety, 3D Printers & Lab Marshal)
+* **Scope**: Workshop order, meeting focus, 3D printers and filament inventory, tool organization, safety compliance, and lab hygiene.
 * **Core Responsibilities**:
+  * **3D Printers & Filament Stewardship (Primary Custodian)**: Directly responsible for the team's 3D printers and filament stock. Manages machine readiness, print queues, bed leveling, nozzle maintenance, and proper filament storage (keeping spools sealed, dry, categorized by material/color, and preventing waste).
   * Enforces 100% compliance with safety glasses in the workshop and pit areas.
   * Guardian of meeting focus: manages distractions, horseplay, and off-task behavior.
   * Enforces the non-negotiable rule: *"No cleanup, no robot testing."*
 * **Subordinates Under Sergeant-at-Arms**:
-  * *Tool & Hardware Keepers*: Ensure screws, Lego bins, hand tools, and 3D print filament are properly organized and stored.
+  * *3D Printer & Filament Marshals*: Assist with print bed cleaning, monitoring active print jobs, loading/unloading spools, and maintaining filament dry-boxes.
+  * *Tool & Hardware Keepers*: Ensure screws, hardware bins, Lego organizers, and hand tools are properly stored.
   * *Pit Cleanup Marshals*: Conduct end-of-session sweep-downs of tables, floors, and charging carts.
   * *Battery & Power Monitor*: Keeps track of battery cycle logs, charger statuses, and voltage safety checks.
 
