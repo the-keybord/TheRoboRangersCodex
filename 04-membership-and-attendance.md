@@ -67,29 +67,66 @@ If a non-academy student applies directly for Level 4 (Varsity):
 
 ---
 
-## 📘 The Self-Driven "Ranger Passport" & Leadership Points
+## 📘 The Self-Driven "Ranger Passport", Cumulative XP & Governance
 
-To foster student ownership and prevent mentor administrative burnout:
-1. **Student Responsibility**: Every member maintains a physical or digital **Ranger Passport** logging workshop hours, project reflections, safety certifications, and skill badges.
-2. **Sub-Team Sign-Offs**: Mains sign off on their subordinate members' task completions; Mentors verify milestones at seasonal promotion hearings.
-3. **Leadership Points & Recognition**: Members who serve as a **Team Captain**, **PR Main**, **Sergeant-at-Arms**, **Project Main**, or **Programming Main** earn accelerated Leadership Points required for promotion to Level 4.
-4. **Volunteering Certificates & Hour Verification**: All verified hours spent mentoring younger courses, assisting in the workshop, or leading satellite school teams are certified with **Official RoboRangers Volunteering Certificates**, usable for school community service requirements, college applications, and international STEM resumes.
+To foster student ownership, reward multi-year loyalty, and prevent mentor administrative burnout:
+1. **Cumulative Lifetime XP (Permanent Progression)**: Every member maintains an official **Ranger Passport** logging workshop hours, project reflections, safety certifications, and skill badges. Points (**Ranger XP**) **never reset across seasons**; they accumulate cumulatively from initial entry through Varsity and Alumni status, permanently honoring every hour dedicated to the team.
+2. **Dual Sign-Off Protocol**:
+   * **Tier 1 (Student Mains Approval)**: The 5 Board Mains have direct authority to sign off on day-to-day subordinate sprint tasks, meeting check-ins, and task XP (+25 to +50 XP).
+   * **Tier 2 (Mentor Verification)**: Mentors Florin Cazac and Andrian Bocancea hold exclusive verification authority for **Milestone Badges**, **Rank Advancements (Vanguard/Master)**, and **Official Volunteering Certificates**.
+3. **The 4-Gate Flight Pass (Travel Eligibility Radar)**: While lifetime XP is cumulative, eligibility for off-site competition travel rosters (e.g., FTC Romania Regional, FTC Italy, FIRST Global) is strictly governed each season by an objective 4-gate radar:
+   * Current season attendance rate $\ge 80\%$.
+   * 100% Safety Exam clearance on file for the active year.
+   * Minimum $\ge 15$ verified community volunteering hours.
+   * Primary ownership of at least one functional robot subsystem or organizational deliverable.
+4. **Mandatory Educational Repayment**: All verified hours spent mentoring younger squads (*RoboMaker*, *Challenge Bot*), organizing TAK scrimmages, or presenting at public expos (Port Mall, Tekwill, Maker Faire) are formally certified with **Official RoboRangers Volunteering Certificates** usable for school graduation credits, university applications, and international STEM resumes.
 
 ---
 
 ## 🤝 Youth Volunteering & Junior Mentorship Program (Ages 14+)
 
-Starting at **age 14**, any active RoboRanger may officially contribute their effort to the broader organization's growth through structured non-technical, leadership, and volunteer activities:
+Starting at **age 14**, any active RoboRanger may officially contribute their skills and energy to the broader community and organization through three structured, accredited volunteering tracks:
 
-1. **Approved Volunteering Pathways**:
-   * **Junior Mentoring**: Assisting adult coaches during *RoboMaker* and *Challenge Bot* sessions—helping 9–11-year-olds troubleshoot mechanisms and model FIRST Core Values.
-   * **Community & Public Presentations**: Demonstrating robots at partner schools, open house exhibitions, sponsor meetings, and community festivals.
-   * **Creative Video & Media Production**: Directing, filming, and editing robot reveal videos, match highlight reels, tutorials, and social media reels.
-   * **Organizing Fun & Team Culture Events**: Planning team social nights, scrimmage game boards, robot sumo tournaments, and celebration banquets (critical for morale and preventing technical burnout).
+### 1. The Three Approved Volunteering Tracks
 
-2. **Repayment & Protection Standards**:
-   * All volunteering is strictly voluntary, aligned with the member's personal interests, and balanced with their academic schedule.
-   * Every hour is recorded in their Ranger Passport and formally repaid with **Official Volunteering Certificates** and **Trust Credits** toward Level 4 Varsity promotion.
+```text
+ ┌─────────────────────────────────────────────────────────────────────────────┐
+ │ TRACK A: Public Exhibition & Outreach Ambassador                            │
+ │ • Staffing official team expo booths (Port Mall, Tekwill Expo, Maker Faire) │
+ │ • Operating live robot demonstration arenas and explaining engineering logs │
+ │ • Speaking with public visitors, youth recruits, and prospective sponsors   │
+ └─────────────────────────────────────────────────────────────────────────────┘
+                                       ▲
+ ┌─────────────────────────────────────┴───────────────────────────────────────┐
+ │ TRACK B: Event & Competition Official                                       │
+ │ • Certified match referees and field reset marshals at internal tournaments │
+ │ • Robot inspection assistants, queueing coordinators, and pit display staff │
+ │ • Scorekeepers and live audio/video streaming crew for TAK & scrimmages    │
+ └─────────────────────────────────────────────────────────────────────────────┘
+                                       ▲
+ ┌─────────────────────────────────────┴───────────────────────────────────────┐
+ │ TRACK C: Junior Course Mentor & Assistant Coach                             │
+ │ • Co-teaching and assisting adult mentors in RoboMaker & Challenge Bot labs │
+ │ • Guiding younger students (ages 9–11) through basic CAD, wiring, and code  │
+ │ • Stepping in for scheduled module coverage under adult mentor co-oversight │
+ └─────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### Detailed Track Rules:
+* **Track A (Outreach & Exhibition Ambassador)**:
+  * *Focus*: Public communication, robot showcases, sponsor networking, and STEM advocacy.
+  * *Safeguards*: Maximum 4-hour active booth shifts; mandatory buddy system (minimum 2 students per stand); continuous mentor point of contact.
+* **Track B (Tournament & Competition Official)**:
+  * *Focus*: Rulebook mastery, fair play enforcement, field management, and tournament logistics.
+  * *Safeguards*: Formal rule briefing required prior to matches; adult Head Referee has final decision authority in case of coach disputes.
+* **Track C (Junior Course Mentor & Assistant Coach)**:
+  * *Focus*: Pedagogical leadership, technical coaching, and role-modeling FIRST Core Values for younger generations.
+  * *Child Protection & Anti-Exploitation Boundary*: Junior mentors are strictly **student assistants and role models**, never unpaid commercial replacements. An adult academy coach remains legally and operationally responsible for the classroom at all times.
+
+### 2. Mandatory Repayment & Anti-Exploitation Safeguards
+* **Strictly Educational & Voluntary**: All volunteer assignments must be 100% voluntary, aligned with the student's personal growth goals, and must never interfere with their school performance or exam periods.
+* **Passport XP & Certificate Repayment**: Every single hour is officially logged in the student's Ranger Passport (at +50 XP/hr) and certified through **Official RoboRangers Volunteering Certificates** recognized for national/international graduation credits and university admissions.
+* **Travel Pass Credits**: High volunteering loyalty directly fulfills Gate 3 of the 4-Gate Travel Flight Pass, earning students top-tier consideration for subsidized international travel rosters.
 
 ---
 

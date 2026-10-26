@@ -75,17 +75,18 @@ Across all competitive squads in the RoboRangers organization—**TerraByte (FLL
 
 ---
 
-### 4. Sergeant-at-Arms (Discipline, Safety, 3D Printers & Lab Marshal)
-* **Scope**: Workshop order, meeting focus, 3D printers and filament inventory, tool organization, safety compliance, and lab hygiene.
+### 4. Sergeant-at-Arms (Discipline, Safety, 3D Printers & Lab Auditor)
+* **Scope**: Workshop order, meeting focus, 3D printers and filament inventory, tool organization, safety compliance, and lab hygiene inspection.
 * **Core Responsibilities**:
   * **3D Printers & Filament Stewardship (Primary Custodian)**: Directly responsible for the team's 3D printers and filament stock. Manages machine readiness, print queues, bed leveling, nozzle maintenance, and proper filament storage (keeping spools sealed, dry, categorized by material/color, and preventing waste).
+  * **Station Inspector, NOT Team Cleaner**: The Sergeant-at-Arms and their marshals are **auditors and quality inspectors, not personal janitors**. They never pick up after others. Instead, they inspect each sub-team's designated zone and hold the responsible sub-team members directly accountable for cleaning their own mess.
   * Enforces 100% compliance with safety glasses in the workshop and pit areas.
   * Guardian of meeting focus: manages distractions, horseplay, and off-task behavior.
-  * Enforces the non-negotiable rule: *"No cleanup, no robot testing."*
+  * Enforces the non-negotiable rule: *"No Station Clearance, No Battery Turn-On / No Dismissal."*
 * **Subordinates Under Sergeant-at-Arms**:
   * *3D Printer & Filament Marshals*: Assist with print bed cleaning, monitoring active print jobs, loading/unloading spools, and maintaining filament dry-boxes.
-  * *Tool & Hardware Keepers*: Ensure screws, hardware bins, Lego organizers, and hand tools are properly stored.
-  * *Pit Cleanup Marshals*: Conduct end-of-session sweep-downs of tables, floors, and charging carts.
+  * *Tool & Hardware Auditors*: Inspect return boards, hardware bins, and ensure hand tools are reset to shadow boards.
+  * *Zone Inspection Marshals*: Audit individual workstations (CAD, Mechanical, Electronics) against the 10-point cleanliness checklist.
   * *Battery & Power Monitor*: Keeps track of battery cycle logs, charger statuses, and voltage safety checks.
 
 ---
